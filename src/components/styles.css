@@ -1,0 +1,11 @@
+.track-hue {
+    background: linear-gradient(
+        to left, 
+        hsl(0, 100%, 50%), 
+        hsl(60, 100%, 50%),
+        hsl(120, 100%, 50%),
+        hsl(180, 100%, 50%),
+        hsl(240, 100%, 50%),
+        hsl(359, 100%, 50%)
+    );
+}
